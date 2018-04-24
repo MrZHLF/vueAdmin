@@ -6,12 +6,13 @@
 * 如果想了解json-server环境搭建，可以了解一下我的博客 
  	http://www.cnblogs.com/zhoulifeng/p/8918199.html  
 
+
+#### 编译运行
  * 可以直接同github下载项目到自己本地上
 
-
 * 下载好的项目进行初始化
-npm install
+   > npm install
 
 * 运行localhost:8080
-npm run dev
+   > npm run dev
 
